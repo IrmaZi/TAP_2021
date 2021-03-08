@@ -11,7 +11,7 @@ public class Main extends Frame {
         this.setSize(300, 200);
         this.setVisible(true);
     }
-    
+    //Está funcionando
     public static void main(String args[]) {
         Main window = new Main();
         window.addWindowListener(new WindowAdapter() {
