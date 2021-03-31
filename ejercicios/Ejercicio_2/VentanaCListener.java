@@ -1,3 +1,4 @@
+package ejercicios.ejercicio_2;
 import java.awt.Frame;
 import java.awt.TextField;
 import java.awt.Button;
